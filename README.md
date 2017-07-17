@@ -15,7 +15,7 @@ Presentation at:
 
 Thursday 12-OCT-2017, 09:00-09:20  (Session: *Insights Into Dynamic Contrast-Enhanced MRI*)
 
-Github: https://github.com/arvidl/dce-mri-renal-pathophysiology
+Github: https://github.com/arvidl/dce-mri-renal-pathophysiology  (see also: https://github.com/arvidl/functional-kidney-imaging)
 
 ---
 
