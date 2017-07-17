@@ -1,6 +1,3 @@
-# dce-mri-renal-pathophysiology
-
-
 ### *What DCE MRI can(not) tell us about renal pathophysiology* 
 
 
