@@ -7,11 +7,10 @@
 
 ---
 
-Presentation at:
+Presentation at 2nd *International Scientific Symposium*
 #### [Functional Renal Imaging: Where Physiology, Nephrology, Radiology and Physics Meet](https://www.mdc-berlin.de/renal)
 
-
-*2nd International Scientific Symposium*, Berlin, October 11-13, 2017. Co-organized by the European Cooperation in Science and Technology (COST) action 'MRI Biomarkers for Chronic Kidney Disease' [PARENCHIMA, CA16103](http://www.cost.eu/COST_Actions/ca/CA16103) 
+Berlin, October 11-13, 2017. Co-organized by the European Cooperation in Science and Technology (COST) action 'MRI Biomarkers for Chronic Kidney Disease' [PARENCHIMA, CA16103](http://www.cost.eu/COST_Actions/ca/CA16103) 
 
 Thursday 12-OCT-2017, 09:00-09:20  (Session: *Insights Into Dynamic Contrast-Enhanced MRI*)
 
