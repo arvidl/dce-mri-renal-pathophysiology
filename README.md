@@ -21,8 +21,4 @@ Github: https://github.com/arvidl/dce-mri-renal-pathophysiology
 
 #### ABSTRACT
 
-Kidney function is related to maintenance of fluids, electrolytes,
-acid-base balance and clearance of toxins. Normal kidney function is
-maintained by coordinated regulation at different levels of organization
-warranting an integrative approach to kidney function in health and
-disease.
+![Alt text](presentation/slide1.-png?raw=true "Title")
