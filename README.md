@@ -19,8 +19,6 @@ Github: https://github.com/arvidl/dce-mri-renal-pathophysiology
 
 ---
 
-#### Summary
-
 ![Alt text](presentation/slide1.png?raw=true "Title")
 
 ![Alt text](presentation/slide2.png?raw=true "Summary")
